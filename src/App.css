@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+}
+
+input{
+  
+  padding: 10px;
+  margin: 5px;
+  border-radius: 10px;
+  height: 2vh;
+  width: 20%;
+  /* border-style: double; */
+  border-top-color: blue;
+  font-style:italic;
+}
+
+label{
+  font-style: italic;
+  color: solid black;
+  font-weight: 800;
+}
+
+h2{
+  padding:15px;
+  color:black;
+  font-style: oblique;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 500px;
+  font-size: 100px;
+}
+
+.box{
+  padding: 5px;
+
+ } 
+
+.submit{
+  background-color: blue;
+  text-align: center;
+  height: 6vh;
+}
+
+body{ 
+  background-color:#a66632;
+  background-origin: content-box;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv1hYp8GWED4O2EoWIvRQ-Xhh_i1ZYjJWZwekkvFv7fJsniT87N3Pchz-LHJLz6Bsxub0&usqp=CAU);
+}
+
+.container{
+text-align: center;
+font-style: italic;
+color: orange;
+}
